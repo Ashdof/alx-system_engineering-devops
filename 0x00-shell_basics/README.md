@@ -27,3 +27,6 @@ This script creates a directory named my_first_directory in /tmp/ directory
 
 8. 7-movethatfile Script
 This script, when executed moves betty file from /tmp/ to /tmp/my_first_directory
+
+9. 8-firstdelete Script
+This script deletes the betty file from /tmp/my_first-directory 
