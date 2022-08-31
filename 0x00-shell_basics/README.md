@@ -14,3 +14,6 @@ This script, when executed changes the user's working directory to the home dire
 
 4. 3-listfiles Script
 This script, when executed list the contents of a directory in a long format
+
+5. 4-listmorefiles Script
+This prints out the contents, including hidden files of a working directory when executed
