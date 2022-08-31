@@ -56,7 +56,10 @@ This script, when executed moves all files that begin with an upper case letter 
 This script, when executed deletes all files in the working directory that ends with the ~
 
 18. 102-tree Script
-This script creates multiple directories in a directory 
+This script creates multiple directories in a directory
+
+19. 103-commas Script
+When executed, this scripts lists all the files and directories of the current directory, separated by commas (,). 
 
 
 
