@@ -36,3 +36,6 @@ This script, when executed deletes the "my_first_directory" from the /tmp direct
 
 11. 10-back Script
 This script, when executed changes the current working directory to the previous one
+
+12. 11-lists Script
+This script, when executed lists the contents of the current directory, the parent directory and the boot directory in the long format
