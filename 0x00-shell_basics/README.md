@@ -11,3 +11,6 @@ This prints out the contents of the current working directory
 
 3. 2-bring_me_home Script
 This script, when executed changes the user's working directory to the home directory
+
+4. 3-listfiles Script
+This script, when executed list the contents of a directory in a long format
