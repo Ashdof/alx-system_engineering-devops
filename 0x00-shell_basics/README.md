@@ -21,3 +21,6 @@ This prints out the contents, including hidden files of a working directory when
 6. 5-listfilesdigitonly Script
 This script prints the contents of a directory in the long format, including hidden files.
 It displays the user IDds and groups.
+
+7. 6-firstdirectory Script
+This script creates a directory named my_first_directory in /tmp/ directory
