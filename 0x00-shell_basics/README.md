@@ -52,7 +52,8 @@ This script copies all html files from the current working directory to the pare
 16. 100-lets_move Script
 This script, when executed moves all files that begin with an upper case letter to the /tmp/u directory
 
-
+17. 101-clean_emacs Script
+This script, when executed deletes all files in the working directory that ends with the ~
 
 
 
