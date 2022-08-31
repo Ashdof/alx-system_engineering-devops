@@ -17,3 +17,7 @@ This script, when executed list the contents of a directory in a long format
 
 5. 4-listmorefiles Script
 This prints out the contents, including hidden files of a working directory when executed
+
+6. 5-listfilesdigitonly Script
+This script prints the contents of a directory in the long format, including hidden files.
+It displays the user IDds and groups.
