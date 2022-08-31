@@ -49,6 +49,9 @@ This script creates a symbolic link to /bin/ls
 15. 14-copy_html Script
 This script copies all html files from the current working directory to the parent directory
 
+16. 100-lets_move Script
+This script, when executed moves all files that begin with an upper case letter to the /tmp/u directory
+
 
 
 
