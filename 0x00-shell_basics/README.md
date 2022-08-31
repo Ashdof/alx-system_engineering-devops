@@ -39,3 +39,6 @@ This script, when executed changes the current working directory to the previous
 
 12. 11-lists Script
 This script, when executed lists the contents of the current directory, the parent directory and the boot directory in the long format
+
+13. 12-file_type Script
+This script, when executed prints out the type of file in /tmp
