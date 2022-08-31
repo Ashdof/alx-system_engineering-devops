@@ -42,3 +42,11 @@ This script, when executed lists the contents of the current directory, the pare
 
 13. 12-file_type Script
 This script, when executed prints out the type of file in /tmp
+
+14. 13-symbolic_link
+This script creates a symbolic link to /bin/ls
+
+
+
+
+
