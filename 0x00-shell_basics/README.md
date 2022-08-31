@@ -24,3 +24,6 @@ It displays the user IDds and groups.
 
 7. 6-firstdirectory Script
 This script creates a directory named my_first_directory in /tmp/ directory
+
+8. 7-movethatfile Script
+This script, when executed moves betty file from /tmp/ to /tmp/my_first_directory
