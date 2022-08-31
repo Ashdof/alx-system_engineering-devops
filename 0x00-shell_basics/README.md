@@ -46,6 +46,9 @@ This script, when executed prints out the type of file in /tmp
 14. 13-symbolic_link
 This script creates a symbolic link to /bin/ls
 
+15. 14-copy_html Script
+This script copies all html files from the current working directory to the parent directory
+
 
 
 
