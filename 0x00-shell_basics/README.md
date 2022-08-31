@@ -33,3 +33,6 @@ This script deletes the betty file from /tmp/my_first-directory
 
 10. 9-firstdirdeletion Script
 This script, when executed deletes the "my_first_directory" from the /tmp directory
+
+11. 10-back Script
+This script, when executed changes the current working directory to the previous one
