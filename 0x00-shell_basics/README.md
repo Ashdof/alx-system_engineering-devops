@@ -55,5 +55,8 @@ This script, when executed moves all files that begin with an upper case letter 
 17. 101-clean_emacs Script
 This script, when executed deletes all files in the working directory that ends with the ~
 
+18. 102-tree Script
+This script creates multiple directories in a directory 
+
 
 
