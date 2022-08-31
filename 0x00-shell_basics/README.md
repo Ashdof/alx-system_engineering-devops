@@ -30,3 +30,6 @@ This script, when executed moves betty file from /tmp/ to /tmp/my_first_director
 
 9. 8-firstdelete Script
 This script deletes the betty file from /tmp/my_first-directory 
+
+10. 9-firstdirdeletion Script
+This script, when executed deletes the "my_first_directory" from the /tmp directory
