@@ -7,4 +7,7 @@ This will change the current user to the user specified when executed
 This script, when executed prints the effective username of the current user
 
 3. 2-groups Script
-This script prints all groups the current user is part of  
+This script prints all groups the current user is part of
+
+4. 3-new_owner Script
+This script, when executed changes the owner of the file hello to the user betty.   
