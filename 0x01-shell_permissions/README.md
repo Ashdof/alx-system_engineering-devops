@@ -13,4 +13,7 @@ This script prints all groups the current user is part of
 This script, when executed changes the owner of the file hello to the user betty.
 
 5. 4-empty Script
-This script creates an empty file called hello.    
+This script creates an empty file called hello.
+
+6. 5-execute Script
+This script, when executed adds execute permission to the owner of the file hello.    
