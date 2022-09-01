@@ -28,4 +28,7 @@ This script adds execute permission to all users.
 This script, when executed grants permissions to only the other users and none for owner and group.
 
 10. 9-John_Doe Script
-This script grants permission as: -rwxr-x-wx 1 for the hello file.     
+This script grants permission as: -rwxr-x-wx 1 for the hello file.
+
+11. 10-mirror_permissions Script
+This script mirros a permission to the olleh file.      
