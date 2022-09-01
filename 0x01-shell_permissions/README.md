@@ -4,4 +4,7 @@ Scripts and What They Do
 This will change the current user to the user specified when executed
 
 2. 1-who_am_i Script
-This script, when executed prints the effective username of the current user 
+This script, when executed prints the effective username of the current user
+
+3. 2-groups Script
+This script prints all groups the current user is part of  
