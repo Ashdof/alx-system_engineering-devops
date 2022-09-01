@@ -16,4 +16,7 @@ This script, when executed changes the owner of the file hello to the user betty
 This script creates an empty file called hello.
 
 6. 5-execute Script
-This script, when executed adds execute permission to the owner of the file hello.    
+This script, when executed adds execute permission to the owner of the file hello.   
+
+7. 6-multiple_permissions Script
+This script adds execute permission for the owner and group onwer and read permission for others.  
