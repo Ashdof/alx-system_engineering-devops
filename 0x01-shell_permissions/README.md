@@ -19,4 +19,7 @@ This script creates an empty file called hello.
 This script, when executed adds execute permission to the owner of the file hello.   
 
 7. 6-multiple_permissions Script
-This script adds execute permission for the owner and group onwer and read permission for others.  
+This script adds execute permission for the owner and group onwer and read permission for others.
+
+8. 7-everybody Script
+This script adds execute permission to all users.   
