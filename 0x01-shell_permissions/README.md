@@ -25,4 +25,7 @@ This script adds execute permission for the owner and group onwer and read permi
 This script adds execute permission to all users.
 
 9. 8-James_Bond Script
-This script, when executed grants permissions to only the other users and none for owner and group.    
+This script, when executed grants permissions to only the other users and none for owner and group.
+
+10. 9-John_Doe Script
+This script grants permission as: -rwxr-x-wx 1 for the hello file.     
