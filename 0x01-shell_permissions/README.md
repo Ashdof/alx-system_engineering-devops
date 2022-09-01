@@ -22,4 +22,7 @@ This script, when executed adds execute permission to the owner of the file hell
 This script adds execute permission for the owner and group onwer and read permission for others.
 
 8. 7-everybody Script
-This script adds execute permission to all users.   
+This script adds execute permission to all users.
+
+9. 8-James_Bond Script
+This script, when executed grants permissions to only the other users and none for owner and group.    
