@@ -31,4 +31,7 @@ This script, when executed grants permissions to only the other users and none f
 This script grants permission as: -rwxr-x-wx 1 for the hello file.
 
 11. 10-mirror_permissions Script
-This script mirros a permission to the olleh file.      
+This script mirros a permission to the olleh file.
+
+12. 11-directories_permissions Script
+This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.      
