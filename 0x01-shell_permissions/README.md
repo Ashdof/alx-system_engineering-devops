@@ -37,4 +37,7 @@ This script mirros a permission to the olleh file.
 This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 
 13. 12-directory_permissions Scripts
-This script creates a directory called my_dir with permissions 751 in the working directory.      
+This script creates a directory called my_dir with permissions 751 in the working directory.
+
+14. 13-change_group Script
+This script, when executed changes the group owner to school for the file hello.       
