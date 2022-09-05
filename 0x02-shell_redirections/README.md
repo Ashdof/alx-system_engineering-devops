@@ -6,7 +6,8 @@ This script, when executed prints "Hello, World" to the standard output
 1-confused_smiley Script
 This script, when executed displays a confused smiley
 
-2-hellofile
+2-hellofile Script
 This script displays the contents of /etc/passwd when executed
 
-
+3-twofiles Script
+This script displays the contents of two files when executed
