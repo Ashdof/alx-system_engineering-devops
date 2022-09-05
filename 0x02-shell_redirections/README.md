@@ -11,3 +11,8 @@ This script displays the contents of /etc/passwd when executed
 
 3-twofiles Script
 This script displays the contents of two files when executed
+
+4-lastlines Script
+This script displays the last 10 lines of /etc/passwd when executed
+
+
