@@ -17,3 +17,6 @@ This script displays the last 10 lines of /etc/passwd when executed
 
 5-firstlines Script
 This script, when executed displays the first 10 lines in a file
+
+6-third_line Script
+This script displays the third line of the file iacta
