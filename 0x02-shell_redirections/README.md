@@ -72,6 +72,9 @@ This script, when executed displays all users and their home directories, sorted
 100-empty_casks Script
 This script when executed finds all empty files and directories in the current directory and all sub-directories
 
+101-gifs Script
+This script, when executed lists all the files with a .gif extension in the current directory and all its sub-directories
+
 
 
 
