@@ -37,7 +37,10 @@ This script when executed, deletes all regular files, excluding directories with
 This script when executed counts for the number of directories and sub-directories in the current directory, including all hiding directories
 
 12-newest_files Script
-This script displays the 10 newest files in the current directory 
+This script displays the 10 newest files in the current directory
+
+13-unique Script
+This script when executed takes a list of words as input and prints only words that appear once  
 
 
 
