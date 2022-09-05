@@ -20,3 +20,6 @@ This script, when executed displays the first 10 lines in a file
 
 6-third_line Script
 This script displays the third line of the file iacta
+
+7-file Script
+This script creates a file with the content Best School using the shell redirection technique
