@@ -51,6 +51,9 @@ This script when executed displays the number of lines that contain the pattern 
 16-whatsnext Script
 This script when executed displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 
+17-hidethisword Script
+This script when executed displays the lines in the file /etc/passwd that do not contain the pattern "bin"
+
 
 
 
