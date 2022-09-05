@@ -27,6 +27,9 @@ This script creates a file with the content Best School using the shell redirect
 8-cwd_state Script
 This script, when executed writes into a file the result of the command ls -la
 
+9-duplicate_last_line Script
+This script duplicates the last line of the file iacta
+
 
 
 
