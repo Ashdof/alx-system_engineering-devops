@@ -23,3 +23,14 @@ This script displays the third line of the file iacta
 
 7-file Script
 This script creates a file with the content Best School using the shell redirection technique
+
+8-cwd_state Script
+This script, when executed writes into a file the result of the command ls -la
+
+
+
+
+
+
+
+
