@@ -63,6 +63,11 @@ This script when executed replaces all characters A and c from the input Z and e
 20-hiago Script
 This script, when executed removes all letters c and C from input
 
+21-reverse Script
+This script when executed reverses its input
+
+
+
 
 
 
