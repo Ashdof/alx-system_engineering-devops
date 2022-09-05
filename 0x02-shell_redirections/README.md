@@ -48,6 +48,8 @@ This script, when executed displays the pattern "root" from the /etc/passwd
 15-countthatword Script
 This script when executed displays the number of lines that contain the pattern "bin" in the file /etc/passwd 
 
+16-whatsnext Script
+This script when executed displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 
 
 
