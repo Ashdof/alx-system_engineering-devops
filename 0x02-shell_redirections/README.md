@@ -3,4 +3,7 @@
 0-hello_world Script
 This script, when executed prints "Hello, World" to the standard output
 
+1-confused_smiley Script
+This script, when executed displays a confused smiley
+
 
