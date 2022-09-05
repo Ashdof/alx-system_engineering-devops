@@ -75,7 +75,8 @@ This script when executed finds all empty files and directories in the current d
 101-gifs Script
 This script, when executed lists all the files with a .gif extension in the current directory and all its sub-directories
 
-
+102-acrostic Script
+This script decodes acrostics that uses the first letter of each line 
 
 
 
