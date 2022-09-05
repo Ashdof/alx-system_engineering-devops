@@ -60,7 +60,8 @@ This script, when executed displays all the lines in a file starting with a lett
 19-AZ Script
 This script when executed replaces all characters A and c from the input Z and e respectively
 
-
+20-hiago Script
+This script, when executed removes all letters c and C from input
 
 
 
