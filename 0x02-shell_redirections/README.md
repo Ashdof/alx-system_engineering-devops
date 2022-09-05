@@ -15,4 +15,5 @@ This script displays the contents of two files when executed
 4-lastlines Script
 This script displays the last 10 lines of /etc/passwd when executed
 
-
+5-firstlines Script
+This script, when executed displays the first 10 lines in a file
