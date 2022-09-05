@@ -34,7 +34,10 @@ This script duplicates the last line of the file iacta
 This script when executed, deletes all regular files, excluding directories with a .js extension
 
 11-directories Script
-This script when executed counts for the number of directories and sub-directories in the current directory, including all hiding directories 
+This script when executed counts for the number of directories and sub-directories in the current directory, including all hiding directories
+
+12-newest_files Script
+This script displays the 10 newest files in the current directory 
 
 
 
