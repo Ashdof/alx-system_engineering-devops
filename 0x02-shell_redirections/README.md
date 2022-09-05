@@ -31,7 +31,10 @@ This script, when executed writes into a file the result of the command ls -la
 This script duplicates the last line of the file iacta
 
 10-no_more_js Script
-This script when executed, deletes all regular files, excluding directories with a .js extension 
+This script when executed, deletes all regular files, excluding directories with a .js extension
+
+11-directories Script
+This script when executed counts for the number of directories and sub-directories in the current directory, including all hiding directories 
 
 
 
