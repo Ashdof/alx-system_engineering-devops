@@ -30,6 +30,9 @@ This script, when executed writes into a file the result of the command ls -la
 9-duplicate_last_line Script
 This script duplicates the last line of the file iacta
 
+10-no_more_js Script
+This script when executed, deletes all regular files, excluding directories with a .js extension 
+
 
 
 
