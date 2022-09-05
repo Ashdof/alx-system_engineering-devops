@@ -76,7 +76,12 @@ This script when executed finds all empty files and directories in the current d
 This script, when executed lists all the files with a .gif extension in the current directory and all its sub-directories
 
 102-acrostic Script
-This script decodes acrostics that uses the first letter of each line 
+This script decodes acrostics that uses the first letter of each line
+
+103-the_biggest_fan Script
+This script, when executed parses web servers logs in TSV format as input and displays 11 hosts or IP addresses which did the most requests
+
+ 
 
 
 
