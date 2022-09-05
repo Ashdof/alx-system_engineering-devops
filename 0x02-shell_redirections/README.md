@@ -66,6 +66,9 @@ This script, when executed removes all letters c and C from input
 21-reverse Script
 This script when executed reverses its input
 
+22-users_and_homes Script
+This script, when executed displays all users and their home directories, sorted by users
+
 
 
 
