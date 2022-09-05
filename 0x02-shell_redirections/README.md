@@ -54,9 +54,11 @@ This script when executed displays lines containing the pattern "root" and 3 lin
 17-hidethisword Script
 This script when executed displays the lines in the file /etc/passwd that do not contain the pattern "bin"
 
-18-letteronly
+18-letteronly Script
 This script, when executed displays all the lines in a file starting with a letter
 
+19-AZ Script
+This script when executed replaces all characters A and c from the input Z and e respectively
 
 
 
