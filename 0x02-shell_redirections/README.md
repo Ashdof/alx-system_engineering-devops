@@ -69,6 +69,9 @@ This script when executed reverses its input
 22-users_and_homes Script
 This script, when executed displays all users and their home directories, sorted by users
 
+100-empty_casks Script
+This script when executed finds all empty files and directories in the current directory and all sub-directories
+
 
 
 
