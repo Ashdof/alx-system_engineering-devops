@@ -36,4 +36,10 @@ This script when executed outputs the result of BREATH to the power LOVE
 11-binary_to_decimal Script
 This script when executed converts a base 2 value to base 10
 
+12-combinations Script
+This script prints combinations of lower case letter, omitting "oo" from the result
+
+
+
+
 
