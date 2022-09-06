@@ -46,6 +46,9 @@ This script prints a floating number in the environment variable NUM
 100-decimal_to_hexadecimal Script
 This script, when executed converts a decimal number to a hexadecimal number
 
+101-rot13 Script
+This script, when executed encodes and decodes text using the rot13 encryption.
+
 
 
 
