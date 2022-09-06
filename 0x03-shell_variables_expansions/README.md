@@ -24,4 +24,7 @@ This script, when executed creates a local variable named BEST with School as th
 7-create_global_variable Script
 This script, when executed creates a global variable named BEST with School as the value
 
+8-true_knowledge Script
+This script when executed computes for the sum of 128 and the value stored in $TRUEKNOWLEDGE
+
 
