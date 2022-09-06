@@ -9,4 +9,7 @@ This script prints hello user, where user is the current Linux user when execute
 2-path Script
 This script, when executed adds /action to the last end of the path 
 
+3-Paths Script
+This script when executed counts the number of directories in the PATH.
+
 
