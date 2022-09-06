@@ -12,4 +12,7 @@ This script, when executed adds /action to the last end of the path
 3-Paths Script
 This script when executed counts the number of directories in the PATH.
 
+4-global_variables Script
+This script, when executed prints the environment variables
+
 
