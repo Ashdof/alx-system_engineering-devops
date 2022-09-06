@@ -43,6 +43,9 @@ This script prints combinations of lower case letter, omitting "oo" from the res
 This script prints a floating number in the environment variable NUM
 
 
+100-decimal_to_hexadecimal Script
+This script, when executed converts a decimal number to a hexadecimal number
+
 
 
 
