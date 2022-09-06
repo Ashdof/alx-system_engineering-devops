@@ -52,6 +52,9 @@ This script, when executed encodes and decodes text using the rot13 encryption.
 102-odd Script
 This script, when executed prints every other line from the input, starting with the first line.
 
+103-water_and_stir Script
+This script, when executed adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
 
 
 
