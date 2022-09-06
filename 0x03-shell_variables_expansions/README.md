@@ -27,4 +27,7 @@ This script, when executed creates a global variable named BEST with School as t
 8-true_knowledge Script
 This script when executed computes for the sum of 128 and the value stored in $TRUEKNOWLEDGE
 
+9-divide_and_rule Script
+This script computes for the division of two envirnment variables
+
 
