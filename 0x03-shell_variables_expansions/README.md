@@ -21,4 +21,7 @@ This script, when executed prints the local variables, environment variables and
 6-create_local_variable Script
 This script, when executed creates a local variable named BEST with School as the value
 
+7-create_global_variable Script
+This script, when executed creates a global variable named BEST with School as the value
+
 
