@@ -39,6 +39,9 @@ This script when executed converts a base 2 value to base 10
 12-combinations Script
 This script prints combinations of lower case letter, omitting "oo" from the result
 
+13-print_float Script
+This script prints a floating number in the environment variable NUM
+
 
 
 
