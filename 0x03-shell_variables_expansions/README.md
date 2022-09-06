@@ -33,4 +33,7 @@ This script computes for the division of two envirnment variables
 10-love_exponent_breath Script
 This script when executed outputs the result of BREATH to the power LOVE
 
+11-binary_to_decimal Script
+This script when executed converts a base 2 value to base 10
+
 
