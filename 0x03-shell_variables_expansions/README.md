@@ -30,4 +30,7 @@ This script when executed computes for the sum of 128 and the value stored in $T
 9-divide_and_rule Script
 This script computes for the division of two envirnment variables
 
+10-love_exponent_breath Script
+This script when executed outputs the result of BREATH to the power LOVE
+
 
