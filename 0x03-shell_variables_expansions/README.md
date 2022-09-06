@@ -6,4 +6,7 @@ This script creates an alias for the command rm* with the name ls
 1-hello_you Script
 This script prints hello user, where user is the current Linux user when executed
 
+2-path Script
+This script, when executed adds /action to the last end of the path 
+
 
