@@ -1,0 +1,10 @@
+# 0x00 Shell Basics
+
+Introduction lesson on Linux System adminstration. In this lesson, we were introduced to the Shell, a programme that takes commads from the keyboard and gives them to the operating system to execute. Examples of such programmes are Bash (Bourne Again SHell), ksh, tcsh and zsh.
+
+We also had hands-on practice with the terminal emulator which is a program that opens a window and lets the user interact with the shell. Examples include genome-terminal, konsole, xterm, rxvt, nxterm, and eterm.
+
+## Reference Materials
+
+The following the resources used for this lesson:
+- [What is "The SHell"]()
