@@ -1,3 +1,3 @@
-# 0x00 Shell Basics
+# Linux System Administration
 
-Introduction lesson on Linux System administration
+Lessons on Linux System administration and DevOps
