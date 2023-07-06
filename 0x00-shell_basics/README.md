@@ -14,6 +14,6 @@ The following the resources used for this lesson:
 - [Manipulating Files](https://linuxcommand.org/lc3_lts0050.php)
 - [Working with Commands](https://linuxcommand.org/lc3_lts0060.php)
 - [Reading Man pages](https://linuxcommand.org/lc3_man_pages/man1.html)
-- Keyboard Shortcuts for Bash](https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
+- [Keyboard Shortcuts for Bash](https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
 - [LTS](https://wiki.ubuntu.com/LTS)
 - [Shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
