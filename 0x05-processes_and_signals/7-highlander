@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# a script that ignores kill signals and prints a statement
+
+while (true)
+do
+	echo "To infinity and beyond"
+	sleep 2
+	trap "echo I am invincible!!!" SIGTERM
+done
