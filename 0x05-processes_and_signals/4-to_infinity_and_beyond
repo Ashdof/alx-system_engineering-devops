@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-# a script that executes indefinitely
-
-while (true)
-do
-	echo "To infinity and beyond"
-	sleep 2
-done
