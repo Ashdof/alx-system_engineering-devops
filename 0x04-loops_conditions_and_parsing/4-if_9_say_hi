@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# a script that prints a statement 10 times
+
+num=1
+while [ $num -lt 11 ]
+do
+	echo "Best School"
+	if [ $num -eq 9 ]
+	then
+		echo "Hi"
+	fi
+	
+	(( num++ ))
+done
