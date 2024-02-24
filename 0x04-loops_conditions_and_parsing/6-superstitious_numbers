@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# a script that prints the numbers from 1 to 20
+
+num=1
+while [ $num -lt 21 ]
+do
+	case "$num" in
+		4)
+			echo 4
+			echo "bad luck from China"
+			;;
+		9)
+			echo 9
+			echo "bad luck from Japan"
+			;;
+		17)
+			echo 17
+			echo "bad luck from Italy"
+			;;
+		*)
+			echo $num
+			;;
+	esac
+
+	(( num++ ))
+done
