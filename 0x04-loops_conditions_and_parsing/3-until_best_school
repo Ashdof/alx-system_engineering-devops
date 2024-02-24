@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# using until to print a statement ten times
+
+num=1
+until [ $num -gt 10 ]
+do
+	echo "Best School"
+	(( num++ ))
+done
