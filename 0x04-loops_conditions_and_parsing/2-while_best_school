@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# use while to print a statement 10 time
+
+num=1
+while [ $num -lt 11 ]
+do
+	echo "Best School"
+	(( num++ ))
+done
