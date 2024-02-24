@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# a script that displays a statement ten times
+
+num=1
+while [ $num -lt 11 ]
+do
+	if [ $num -eq 4 ]
+	then
+		echo "bad luck"
+	elif [ $num -eq 8 ]
+	then
+		echo "good luck"
+	else
+		echo "Best School"
+	fi
+
+	(( num++ ))
+done
