@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# a script that pings an IP address passed as an argument.
+
+ip=$1
+fn=$(basename "${BASH_SOURCE[@]}")
+
+if ! [ "$ip" ];
+then
+	echo "Usage: ${fn} {IP_ADDRESS}"
+else
+	ping -c 5 "$ip"
+fi
