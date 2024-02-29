@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+shellcheck $1
+chmod 755 $1
