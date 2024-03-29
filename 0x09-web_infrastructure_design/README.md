@@ -6,3 +6,6 @@ This is a simple web stack design that outlines the basic functional setup for a
 
 ### [Distributed Web Infrastructure](1-distributed_web_infrastructure.md)
 This design explores the benefits and considerations of distributing application components across multiple servers or locations. It addresses scalability and fault tolerance issues.
+
+### [Secured and Monitored Web Infrastructure](2-secured_and_monitored_web_infrastructure.md)
+Security is a critical aspect of any web application. This design focuses on creating a robust and secure web infrastructure, including measures for authentication, authorization, and monitoring to ensure the protection of sensitive data.
