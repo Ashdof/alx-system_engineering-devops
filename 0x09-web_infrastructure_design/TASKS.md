@@ -9,7 +9,7 @@ At the end of the lesson, we were able to:
 - Know all the mentioned acronyms: LAMP, SPOF, QPS
 
 # Refrence Resources
-The references resources used in this lesson:
+The references materials used in this lesson:
 - [Network Basics](https://github.com/Ashdof/alx-system_engineering-devops/tree/main/0x07-networking_basics)
 - [Network Basics II](https://github.com/Ashdof/alx-system_engineering-devops/tree/main/0x08-networking_basics_2)
 - [Network Protocol](https://www.techtarget.com/searchnetworking/definition/protocol)
