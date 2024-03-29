@@ -9,3 +9,6 @@ This design explores the benefits and considerations of distributing application
 
 ### [Secured and Monitored Web Infrastructure](2-secured_and_monitored_web_infrastructure.md)
 Security is a critical aspect of any web application. This design focuses on creating a robust and secure web infrastructure, including measures for authentication, authorization, and monitoring to ensure the protection of sensitive data.
+
+### [Scaled Up Web Infrastructure](3-scale_up.md)
+As web applications grow, scaling becomes a crucial consideration. This design provides insights into scaling up a web infrastructure, covering strategies for handling increased traffic, optimizing performance, and ensuring seamless user experiences.
