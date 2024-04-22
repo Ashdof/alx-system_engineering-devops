@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+# Configure ubuntu machine by installing Nginx
+# server, listening on port 80
+#
+#
+# Color configuration for messgaes
+blue='\e[1;34m'
+brown='\e[0;33m'
+green='\e[1;32m'
+reset='\033[0m'
+
+# Update the machine
+echo -e "${green}Updating system.${reset}\n"
+sudo apt-get update -y -qq
+
+# install Nginx
+echo -e "\n${green}Installing ${blue}Nginx${blue}.${reset}\n"
+sudo apt-get install nginx -y
+
+echo -e "\n${green}Starting ${blue}Nginx Service ...${blue}.${reset}\n"
+
+# starting nginx service
+sudo service nginx start
+
+# allow nginx on firewall
+sudo ufw allow 'Nginx HTTP'
+
+# Grant the user ownership to website files for editing
+sudo chown -R "$USER":"$USER" /var/www/html
+sudo chmod -R 755 /var/www
+
+# Backup default index
+cp /var/www/html/index.nginx-debian.html /var/www/html/index-debian.html.bckp
+
+# Create new index
+echo -e "Hello World!" | dd status=none of=/var/www/html/index.nginx-debian.html
+
+# Restart nginx
+sudo service nginx restart
+
+echo -e "\n${brown}Done.${reset}\n"
