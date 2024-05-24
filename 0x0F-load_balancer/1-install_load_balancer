@@ -45,8 +45,8 @@ frontend enchill-tech-frontend
 
 backend enchill-tech-backend
     balance roundrobin
-    server 38622-web-01 35.153.194.18:80 check
-    server 38622-web-02 3.83.245.208:80 check
+    server 38622-web-01 34.232.76.7:80 check
+    server 38622-web-02 18.204.7.233:80 check
 "
 
 # shellcheck disable=SC2154
