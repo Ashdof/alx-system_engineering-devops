@@ -11,6 +11,7 @@
 *nat
 :PREROUTING ACCEPT [0:0]
 -A PREROUTING -p tcp --dport 8080 -j REDIRECT --to-port 80
+COMMIT
 
 # Don't delete these required lines, otherwise there will be errors
 *filter
@@ -31,7 +32,7 @@
 -A ufw-before-forward -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT
 
 # drop INVALID packets (logs these in loglevel medium and higher)
--A ufw-before-input -m conntrack --ctstate INVALID -j ufw-logging-deny
+-A ufw-before-input -m conntrack --ctstate INVALID -j LOG --log-prefix "iptables INVALID: " --log-level 4
 -A ufw-before-input -m conntrack --ctstate INVALID -j DROP
 
 # ok icmp codes for INPUT
@@ -66,7 +67,7 @@
 -A ufw-not-local -m addrtype --dst-type BROADCAST -j RETURN
 
 # all other non-local packets are dropped
--A ufw-not-local -m limit --limit 3/min --limit-burst 10 -j ufw-logging-deny
+-A ufw-not-local -m limit --limit 3/min --limit-burst 10 -j LOG --log-prefix "iptables INVALID: " --log-level 4
 -A ufw-not-local -j DROP
 
 # allow MULTICAST mDNS for service discovery (be sure the MULTICAST line above
