@@ -13,7 +13,7 @@ def recurse(subreddit, hot_list=[], after="", count=0):
     Returns:
     The list of hot posts or None if no results are found
     """
-    
+
     url = "https://www.reddit.com/r/{}/hot/.json".format(subreddit)
     headers = {
         "User-Agent": "linux:0x16.api.advanced:v1.0.0 (by /u/bdov_)"
